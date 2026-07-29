@@ -1,4 +1,4 @@
-# Web Info Collector
+## Web Info Collector
 
 A small practice project built while learning Python's `requests` module.
 
