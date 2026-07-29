@@ -2,7 +2,7 @@
 
 A small practice project built while learning Python's `requests` module.
 
-## Features
+### Features
 
 - Get HTTP status code
 - Measure response time
@@ -21,3 +21,4 @@ python webinfo.py
 ```
 
 Enter a URL when prompted.
+Testing YOLO badge
